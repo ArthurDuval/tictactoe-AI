@@ -1,0 +1,11 @@
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\bin\Debug\AI_Tictactoe.exe.config
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\bin\Debug\AI_Tictactoe.exe
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\bin\Debug\AI_Tictactoe.pdb
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\obj\Debug\AI_Tictactoe.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\obj\Debug\AI_Tictactoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\obj\Debug\AI_Tictactoe.Form1.resources
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\obj\Debug\AI_Tictactoe.Properties.Resources.resources
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\obj\Debug\AI_Tictactoe.csproj.GenerateResource.cache
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\obj\Debug\AI_Tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\obj\Debug\AI_Tictactoe.exe
+C:\Users\arthu\source\repos\AI_Tictactoe\AI_Tictactoe\obj\Debug\AI_Tictactoe.pdb
